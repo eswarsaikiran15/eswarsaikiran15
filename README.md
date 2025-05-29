@@ -33,18 +33,6 @@
 
 ---
 
-## 🚀 Projects
-
-- 🔧 [**Image Editor Web App**](https://eswarsaikiran15.github.io/image-editor/)  
-  A sleek image editor with crop, rotate, filters, contrast & overlays.
-
-- 🤖 **Sentiment Analysis System**  
-  Real-time tweet/review classifier using Python NLP and Scikit-Learn.
-
-- 🎬 **Movie Recommendation System**  
-  AI-based suggestion engine with IMDb dataset, NLP + filtering.
-
----
 
 ## 📜 Certifications
 
