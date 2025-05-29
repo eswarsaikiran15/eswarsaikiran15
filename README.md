@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96e6a1,100:45c490&height=220&section=header&text=Hey%20👋%20I'm%20Eswar%20Sai%20Kiran&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&label=Profile%20views&color=brightgreen&style=flat" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/contributors-1-brightgreen" />
-  <img src="https://img.shields.io/badge/issues-0%20open-yellow" />
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen" />
-</p>
 
 
 
