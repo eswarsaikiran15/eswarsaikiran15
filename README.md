@@ -27,7 +27,7 @@
 |------------------|------------------------------------------------------------------------|
 | 👨‍💻 Languages     | `C` `Python` `C++`                                                    |
 | 🌐 Web Dev       | `HTML` `CSS` `JavaScript`                                              |
-| 📊 Data Science  | `Pandas` `Scikit-Learn` `ML` `NLP`                                     |
+| 📊 Data Science  |  `ML` `NLP`                                                            |
 | 🧠 Tools & IDEs  | `Git` `GitHub` `VS Code`                                               |
 | 🎯 Soft Skills   | `Teamwork` `Communication` `Project Management`                       |
 
