@@ -34,16 +34,6 @@
 ---
 
 
-## 📜 Certifications
-
-- 🧠 SQL (HackerRank)
-- 🐍 Python for Data Science (IBM)
-- 🖥️ Red Hat Linux Fundamentals
-- 🧪 ML with Python (IBM)
-- 💻 JavaScript Essentials (CISCO)
-
----
-
 ## 🌐 Languages I Speak
 
 ![English](https://img.shields.io/badge/-English-brightgreen)
