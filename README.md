@@ -18,14 +18,6 @@
 💬 Ask me about anything frontend, ML, or design  
 ⚡ Fun fact: I can debug faster with lo-fi beats on 🎧
 
- 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
 
 
 
