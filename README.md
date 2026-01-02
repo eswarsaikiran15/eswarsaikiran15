@@ -8,8 +8,8 @@
 # 💫 About Me:
 🎓 B.Tech CSE - IoT @ Aditya College of Engineering & Technology  
 🔭 Currently working on: AI/ML Projects & Responsive Web Apps  
-💬 Ask me about anything frontend, ML, or design  
-⚡ Fun fact: I can debug faster with lo-fi beats on 🎧
+💬 Ask me about anything frontend, ML or data analysis
+
 
 
 
