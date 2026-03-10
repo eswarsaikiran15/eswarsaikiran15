@@ -1,89 +1,85 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:96e6a1,100:45c490&height=220&section=header&text=Eswar%20Sai%20Kiran&fontSize=40&fontColor=000000&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Eswar%20Sai%20Kiran&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# 👋 Hi, I'm Eswar Sai Kiran
-
-🎓 B.Tech CSE (IoT) — Aditya College of Engineering & Technology  
-📍 Andhra Pradesh, India  
-💻 Interested in **Software Development, AI/ML, and Data Applications**
-
-I enjoy building practical software systems that combine **data processing, machine learning models, and responsive interfaces**.
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;Data+Analytics+Learner;Building+Practical+Tech+Projects"/>
+</h3>
 
 ---
 
-# 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 🧠 Smart Vision Writer – Offline AI System
-AI-powered vision-to-text system that works **without internet**.
+🎓 B.Tech CSE (IoT)  
+🏫 Aditya College of Engineering & Technology  
 
-**Tech:** Python, Streamlit, Vision-Language Models, ESP32-CAM
+💡 Interested in building:
 
-- Built an image-to-caption pipeline with **~85% caption accuracy**
-- Processed images in **<2 seconds per frame**
-- Integrated ESP32-CAM to transmit image data locally
-- Delivered results via a real-time Streamlit interface
-
----
-
-### 🎬 Movie Recommendation Engine
-Content-based movie recommendation system.
-
-**Tech:** Python, Pandas, TF-IDF, Streamlit
-
-- Processed **5000+ movie records**
-- Implemented similarity-based recommendation algorithm
-- Optimized search to improve recommendation speed **~40%**
-- Built a web dashboard serving recommendations interactively
+- AI-powered applications  
+- Data analysis systems  
+- Responsive web applications  
 
 ---
 
-# 🧰 Tech Stack
-
-**Languages**
-
-Python • JavaScript • C
-
-**Data & ML**
-
-Pandas • NumPy • Data Preprocessing • Exploratory Data Analysis
-
-**Web Development**
-
-HTML • CSS • JavaScript
-
-**Tools**
-
-Git • GitHub • Jupyter Notebook • VS Code • Streamlit
-
-**Hardware / IoT**
-
-ESP32 • Arduino
-
----
-
-# 📊 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=default"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-LinkedIn  
-https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/
+<p align="center">
 
-GitHub  
-https://github.com/eswarsaikiran15
+<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=github_dark"/>
 
-Email  
-kamparapusaikiran@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=eswarsaikiran15&theme=dark"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kamparapusaikiran@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/eswarsaikiran15">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45c490,100:96e6a1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
