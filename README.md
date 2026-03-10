@@ -1,42 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:96e6a1,100:45c490&height=220&section=header&text=Hey%20👋%20I'm%20Eswar%20Sai%20Kiran&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:96e6a1,100:45c490&height=220&section=header&text=Eswar%20Sai%20Kiran&fontSize=40&fontColor=000000&animation=fadeIn"/>
 </p>
 
+# 👋 Hi, I'm Eswar Sai Kiran
 
+🎓 B.Tech CSE (IoT) — Aditya College of Engineering & Technology  
+📍 Andhra Pradesh, India  
+💻 Interested in **Software Development, AI/ML, and Data Applications**
 
+I enjoy building practical software systems that combine **data processing, machine learning models, and responsive interfaces**.
 
-# 💫 About Me:
-🎓 B.Tech CSE - IoT @ Aditya College of Engineering & Technology  
-🔭 Currently working on: AI/ML Projects & Responsive Web Apps  
-💬 Ask me about anything frontend, ML or data analysis
+---
 
+# 🚀 Featured Projects
 
+### 🧠 Smart Vision Writer – Offline AI System
+AI-powered vision-to-text system that works **without internet**.
 
+**Tech:** Python, Streamlit, Vision-Language Models, ESP32-CAM
 
+- Built an image-to-caption pipeline with **~85% caption accuracy**
+- Processed images in **<2 seconds per frame**
+- Integrated ESP32-CAM to transmit image data locally
+- Delivered results via a real-time Streamlit interface
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
+### 🎬 Movie Recommendation Engine
+Content-based movie recommendation system.
 
+**Tech:** Python, Pandas, TF-IDF, Streamlit
 
-## 🌐 Languages I Speak
+- Processed **5000+ movie records**
+- Implemented similarity-based recommendation algorithm
+- Optimized search to improve recommendation speed **~40%**
+- Built a web dashboard serving recommendations interactively
 
-![English](https://img.shields.io/badge/-English-brightgreen)
-![Hindi](https://img.shields.io/badge/-Hindi-brightgreen)
-![Telugu](https://img.shields.io/badge/-Telugu-brightgreen)
+---
 
+# 🧰 Tech Stack
 
+**Languages**
 
-## 📫 Let's Connect
+Python • JavaScript • C
+
+**Data & ML**
+
+Pandas • NumPy • Data Preprocessing • Exploratory Data Analysis
+
+**Web Development**
+
+HTML • CSS • JavaScript
+
+**Tools**
+
+Git • GitHub • Jupyter Notebook • VS Code • Streamlit
+
+**Hardware / IoT**
+
+ESP32 • Arduino
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact"/>
 </p>
 
 ---
 
+# 🌐 Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/
+
+GitHub  
+https://github.com/eswarsaikiran15
+
+Email  
+kamparapusaikiran@gmail.com
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45c490,100:96e6a1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45c490,100:96e6a1&height=120&section=footer"/>
 </p>
