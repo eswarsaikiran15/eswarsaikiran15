@@ -16,8 +16,8 @@
 💡 Interested in:
 
 - AI & Machine Learning  
-- Data Analysis  
-- Software Development  
+- Data Analysis using python 
+- data analyst learner 
 
 <br>
 
