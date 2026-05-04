@@ -1,186 +1,143 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:44A08D&height=300&section=header&text=Eswar%20Sai%20Kiran&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Eswar%20Sai%20Kiran&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20IoT%20Builder&descSize=18&descAlignY=72&descColor=4ECDC4"/>
 </p>
 
 ---
 
-## 👋 About Me
+## `> whoami`
 
-**B.Tech CSE (IoT) Graduate** | 2026 | Aditya College of Engineering & Technology
+**B.Tech CSE (IoT) · 2026 · Aditya College of Engineering & Technology**  
+Fresher Data Analyst and Machine Learning enthusiast with hands-on experience in EDA, predictive modeling, and IoT-AI integration. Building projects that translate data into decisions. Open to analyst roles, freelance work, and collaborations.
 
-Fresher Data Analyst & Machine Learning enthusiast with hands-on project experience in data analysis, EDA, and predictive modeling. Currently seeking opportunities to apply technical skills in real-world data analytics and ML projects.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+📍 Kakinada, AP &nbsp;|&nbsp; 📫 [kamparapusaikiran@gmail.com](mailto:kamparapusaikiran@gmail.com) &nbsp;|&nbsp; 🟢 **Open to work**
 
 ---
 
-## ⭐ Featured Projects
+## 🛠 Tech Stack
 
-### 1. 🔬 **Smart Vision Writer** 
-**IoT + AI Integration Project (Final Year B.Tech)**  
-Real-time image captioning and scene understanding using ESP32-CAM with transformer models
+**Core**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `Matplotlib` `Seaborn`
 
-**Tools Used:** 
-- Python, PyTorch, Transformers (BLIP, CLIP)
-- Flask, Streamlit, Arduino (C++)
-- ESP32-CAM, PIR sensor (IoT Hardware)
+**Tools & Frameworks**  
+`Jupyter` `Flask` `Streamlit` `Transformers (BLIP · CLIP)` `Git` `GitHub`
 
-**Key Technologies:** 
-- Image captioning with BLIP model
-- Zero-shot classification with CLIP
-- IoT hardware integration
-- Real-time inference pipeline
+**Languages**  
+`Python` `JavaScript` `C++ (Arduino)`
 
-**Key Achievements:**
-- ✅ 90% classification accuracy
-- ✅ 100% caption accuracy
-- ✅ 4.2 seconds average inference time
-- ✅ Hardware cost under ₹800
+**IoT & Hardware**  
+`ESP32-CAM` `PIR Sensor` `Arduino` `Real-time Inference Pipelines`
 
+---
+
+## 🚀 Featured Projects
+
+### 🔬 Smart Vision Writer &nbsp;`IoT + AI` `Final Year Project`
+> Real-time image captioning and scene understanding — an ESP32-CAM connected to transformer models via Flask.
+
+| Metric | Result |
+|---|---|
+| Classification Accuracy | **90%** |
+| Caption Accuracy | **100%** |
+| Avg. Inference Time | **4.2 seconds** |
+| Hardware Cost | **< ₹800** |
+
+**Stack:** Python · PyTorch · BLIP · CLIP · Flask · Streamlit · Arduino C++ · ESP32-CAM  
 📂 [View Repository](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
 
 ---
 
-### 2. 🎬 **Movie Prediction** 
-**Machine Learning - Regression Project**  
-Predicts movie success/revenue using historical movie data
+### 🤖 Startup Success Prediction &nbsp;`ML · Classification`
+> Predicts startup success/failure from financial & operational data. Precision and recall both at ~94%.
 
-**Tools Used:** 
-- Python, Pandas, NumPy
-- Scikit-learn
-- Matplotlib, Seaborn
-- Jupyter Notebook
+**Stack:** Python · Pandas · Scikit-learn · Gradient Boosting · Random Forest  
+📂 [View Repository](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
 
-**Key Techniques:**
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
-- Feature engineering and selection
-- Model training (Linear Regression, Random Forest, Gradient Boosting)
+---
 
-**Models Evaluated:**
-- Linear Regression
-- Random Forest Regressor
-- Gradient Boosting Models
+### 🎬 Movie Revenue Prediction &nbsp;`ML · Regression`
+> End-to-end ML pipeline — EDA → feature engineering → model comparison across Linear Regression, Random Forest, and Gradient Boosting.
 
+**Stack:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn  
 📂 [View Repository](https://github.com/eswarsaikiran15/movie-recommendation)
 
 ---
 
-### 3. 📊 **APSSDC Data Analysis Internship**
-**Data Analytics & EDA Project**  
-Comprehensive data analysis project covering real-world datasets with complete EDA and insights
+### 📊 APSSDC Data Analysis Internship &nbsp;`Data Analytics · EDA`
+> Full data workflow on real-world datasets: cleaning, exploration, statistical analysis, and visual storytelling.
 
-**Tools Used:**
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
-- Statistical Analysis
-
-**Key Techniques:**
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Data Preprocessing & Cleaning
-- Statistical Analysis
-- Insights & Recommendations
-
-**Project Highlights:**
-- ✅ Complete data workflow from raw data to insights
-- ✅ Advanced visualization techniques
-- ✅ Statistical analysis and pattern discovery
-- ✅ Professional-grade documentation
-
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter  
 📂 [View Repository](https://github.com/eswarsaikiran15/apssdc_data-analysis_internship)
 
 ---
 
-## 📚 Other Projects
+### 💼 CourseCatalyst &nbsp;`Full-Stack Web App`
+> Educational platform for curated programming courses with particle animations and email integration.
 
-### 🤖 **Startup Success Prediction - Prosperity Prognosticator**
-**Classification ML Project**  
-Predicts startup success/failure using financial and operational data
-
-**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook  
-**Performance:** ~94% precision and recall  
-[View Repository](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
+**Stack:** HTML5 · CSS3 · JavaScript · EmailJS · tsParticles  
+📂 [View Repository](https://github.com/eswarsaikiran15/course-catalyst)
 
 ---
 
-### 💼 **CourseCatalyst**
-**Full-Stack Web Application**  
-Educational platform for curated programming courses
+## 📋 Skills Matrix
 
-**Tools Used:** HTML5, CSS3, JavaScript, EmailJS, tsParticles  
-[View Repository](https://github.com/eswarsaikiran15/course-catalyst)
-
----
-
-## 📊 Skills Summary
-
-| Category | Skills |
-|:---:|:---|
-| **Data Analysis** | EDA, Data Visualization, Data Preprocessing, Statistical Analysis |
-| **Machine Learning** | Supervised Learning, Classification, Regression, Feature Engineering, Model Evaluation |
-| **Programming Languages** | Python, JavaScript, C++ |
-| **Libraries & Tools** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter, Flask, Streamlit, PyTorch |
-| **Version Control** | Git, GitHub |
-| **IoT & Hardware** | ESP32-CAM, Arduino, Sensor Integration |
+| Domain | Skills |
+|---|---|
+| **Data Analysis** | EDA · Visualization · Preprocessing · Statistical Analysis |
+| **Machine Learning** | Supervised Learning · Classification · Regression · Feature Engineering · Model Evaluation |
+| **Programming** | Python · JavaScript · C++ |
+| **Libraries** | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · PyTorch · Flask · Streamlit |
+| **Version Control** | Git · GitHub |
+| **IoT & Hardware** | ESP32-CAM · Arduino · PIR Sensor · Real-time Inference |
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=react&hide_border=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=react&hide_border=true&hide_title=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Looking For
+## 🎯 What I'm Looking For
 
-- **Data Analyst roles** (internships, entry-level positions, freelance)
-- **ML/Data Science projects** to build portfolio
-- **Real-world analytics projects** with business impact
-- **Collaborative opportunities** on data-driven solutions
+- 📊 **Data Analyst** roles — internships, entry-level, or freelance
+- 🤖 **ML / Data Science** projects to grow my portfolio
+- 🌍 **Real-world analytics** with business impact
+- 🤝 **Collaborative opportunities** on data-driven solutions
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
-| Platform | Link |
-|:---:|:---|
-| LinkedIn | [eswar-sai-kiran-kamparapu](https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/) |
-| GitHub | [@eswarsaikiran15](https://github.com/eswarsaikiran15) |
-| Email | kamparapusaikiran@gmail.com |
+<p>
+  <a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/eswarsaikiran15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kamparapusaikiran@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-💡 **Open to data analyst opportunities, freelance projects, and learning collaborations!**
+> 💡 *Open to data analyst roles, freelance data projects, and learning collaborations. Let's build something data-driven together.*
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:44A08D,50:4ECDC4,100:FF6B6B&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 </p>
 
 <p align="center">
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=flat-square&color=44A08D"/>
+  <img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=flat-square&color=4ECDC4"/>
 </p>
