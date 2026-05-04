@@ -27,56 +27,102 @@ Fresher Data Analyst & Machine Learning enthusiast with hands-on project experie
 
 ---
 
-## 📚 Featured Projects
+## ⭐ Featured Projects
 
-### 1. 🎬 **Movie Prediction** 
-**Machine Learning Project**  
-Predicts movie success using historical movie data
+### 1. 🔬 **Smart Vision Writer** 
+**IoT + AI Integration Project (Final Year B.Tech)**  
+Real-time image captioning and scene understanding using ESP32-CAM with transformer models
 
-**Tools Used:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**Key Techniques:** Data preprocessing, EDA, Feature engineering, Model evaluation (Linear Regression, Random Forest)  
-[View Repository](https://github.com/eswarsaikiran15/movie-recommendation)
+**Tools Used:** 
+- Python, PyTorch, Transformers (BLIP, CLIP)
+- Flask, Streamlit, Arduino (C++)
+- ESP32-CAM, PIR sensor (IoT Hardware)
+
+**Key Technologies:** 
+- Image captioning with BLIP model
+- Zero-shot classification with CLIP
+- IoT hardware integration
+- Real-time inference pipeline
+
+**Key Achievements:**
+- ✅ 90% classification accuracy
+- ✅ 100% caption accuracy
+- ✅ 4.2 seconds average inference time
+- ✅ Hardware cost under ₹800
+
+📂 [View Repository](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
 
 ---
 
-### 2. 🤖 **Startup Success Prediction - Prosperity Prognosticator**
+### 2. 🎬 **Movie Prediction** 
+**Machine Learning - Regression Project**  
+Predicts movie success/revenue using historical movie data
+
+**Tools Used:** 
+- Python, Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+**Key Techniques:**
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering and selection
+- Model training (Linear Regression, Random Forest, Gradient Boosting)
+
+**Models Evaluated:**
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Models
+
+📂 [View Repository](https://github.com/eswarsaikiran15/movie-recommendation)
+
+---
+
+### 3. 📊 **APSSDC Data Analysis Internship**
+**Data Analytics & EDA Project**  
+Comprehensive data analysis project covering real-world datasets with complete EDA and insights
+
+**Tools Used:**
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+- Statistical Analysis
+
+**Key Techniques:**
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Data Preprocessing & Cleaning
+- Statistical Analysis
+- Insights & Recommendations
+
+**Project Highlights:**
+- ✅ Complete data workflow from raw data to insights
+- ✅ Advanced visualization techniques
+- ✅ Statistical analysis and pattern discovery
+- ✅ Professional-grade documentation
+
+📂 [View Repository](https://github.com/eswarsaikiran15/apssdc_data-analysis_internship)
+
+---
+
+## 📚 Other Projects
+
+### 🤖 **Startup Success Prediction - Prosperity Prognosticator**
 **Classification ML Project**  
 Predicts startup success/failure using financial and operational data
 
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook  
-**Key Techniques:** EDA, Feature encoding, Logistic Regression, Decision Trees, Random Forest, Model evaluation  
 **Performance:** ~94% precision and recall  
 [View Repository](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
 
 ---
 
-### 3. 🔬 **Smart Vision Writer** 
-**IoT + AI Integration Project (Final Year B.Tech)**  
-Real-time image captioning and scene understanding using ESP32-CAM with transformer models
-
-**Tools Used:** Python, PyTorch, Transformers (BLIP, CLIP), Flask, Streamlit, Arduino (C++)  
-**Key Technologies:** 
-- Image captioning with BLIP model
-- Zero-shot classification with CLIP
-- IoT hardware integration (ESP32-CAM, PIR sensor)
-- Real-time inference pipeline
-
-**Key Achievements:**
-- 90% classification accuracy
-- 100% caption accuracy
-- 4.2 seconds average inference time
-- Hardware cost under ₹800
-
-[View Repository](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
-
----
-
-### 4. 💼 **Web Development Project - CourseCatalyst**
+### 💼 **CourseCatalyst**
 **Full-Stack Web Application**  
 Educational platform for curated programming courses
 
 **Tools Used:** HTML5, CSS3, JavaScript, EmailJS, tsParticles  
-**Features:** Responsive design, dark mode, contact form, course management  
 [View Repository](https://github.com/eswarsaikiran15/course-catalyst)
 
 ---
@@ -86,10 +132,11 @@ Educational platform for curated programming courses
 | Category | Skills |
 |:---:|:---|
 | **Data Analysis** | EDA, Data Visualization, Data Preprocessing, Statistical Analysis |
-| **Machine Learning** | Supervised Learning, Classification, Regression, Feature Engineering |
+| **Machine Learning** | Supervised Learning, Classification, Regression, Feature Engineering, Model Evaluation |
 | **Programming Languages** | Python, JavaScript, C++ |
-| **Libraries & Tools** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter, Flask, Streamlit |
+| **Libraries & Tools** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter, Flask, Streamlit, PyTorch |
 | **Version Control** | Git, GitHub |
+| **IoT & Hardware** | ESP32-CAM, Arduino, Sensor Integration |
 
 ---
 
@@ -111,9 +158,10 @@ Educational platform for curated programming courses
 
 ## 🎯 Looking For
 
-- **Data Analyst roles** (internships, entry-level positions)
-- **Data Science projects** to build portfolio
-- **Collaborative opportunities** on ML/Analytics projects
+- **Data Analyst roles** (internships, entry-level positions, freelance)
+- **ML/Data Science projects** to build portfolio
+- **Real-world analytics projects** with business impact
+- **Collaborative opportunities** on data-driven solutions
 
 ---
 
