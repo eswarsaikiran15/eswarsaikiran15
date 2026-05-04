@@ -142,12 +142,17 @@ Educational platform for curated programming courses
 
 ## 📈 GitHub Analytics
 
-**Statistics:**
-- 🔥 **325 Total Contributions** (Feb 14, 2024 - Present)
-- 🎯 **Current Streak:** 11 days (Apr 24 - May 4)
-- ⭐ **Longest Streak:** 11 days (Apr 24 - May 4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=react&hide_border=true&hide_title=true" alt="GitHub Stats"/>
+</p>
 
-> View more on [GitHub Profile](https://github.com/eswarsaikiran15)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=react&hide_border=true&hide_title=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=react&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
