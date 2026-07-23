@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="ESP32 badge">
+  <defs>
+    <linearGradient id="g5" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00F58C">
+        <animate attributeName="stop-color" values="#00F58C;#7CFFB2;#00F58C" dur="2.6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00A86B">
+        <animate attributeName="stop-color" values="#00A86B;#3fdc98;#00A86B" dur="2.6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g5)" />
+  <g transform="translate(14,28)">
+    <circle cx="0" cy="-2" r="9" fill="#062a1f" opacity="0.12" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#02120f">ESP32</text>
+  </g>
+</svg>

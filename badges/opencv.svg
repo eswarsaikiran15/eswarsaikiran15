@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="OpenCV badge">
+  <defs>
+    <linearGradient id="g3" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00ADEF">
+        <animate attributeName="stop-color" values="#00ADEF;#66d9ff;#00ADEF" dur="3.2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff2d55">
+        <animate attributeName="stop-color" values="#ff2d55;#ff7b9e;#ff2d55" dur="3.2s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g3)" />
+  <g transform="translate(14,26)">
+    <circle cx="0" cy="-2" r="8" fill="#ffffff" opacity="0.14" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#041018">OpenCV</text>
+  </g>
+</svg>

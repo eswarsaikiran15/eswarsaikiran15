@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="SQL badge">
+  <defs>
+    <linearGradient id="g4" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00B4DB">
+        <animate attributeName="stop-color" values="#00B4DB;#00f0ff;#00B4DB" dur="3.6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0083B0">
+        <animate attributeName="stop-color" values="#0083B0;#00a0d6;#0083B0" dur="3.6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g4)" />
+  <g transform="translate(14,30)">
+    <rect x="-6" y="-18" width="20" height="20" rx="4" fill="#00758F" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#02121a">SQL</text>
+  </g>
+</svg>

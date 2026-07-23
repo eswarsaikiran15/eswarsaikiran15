@@ -1,353 +1,86 @@
 <div align="center">
 
-# 🤖 AI SYSTEM INITIALIZED
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00F58C&center=true&vCenter=true&width=700&lines=Kamparapu+Eswar+Sai+Kiran;Data+Analyst;Machine+Learning+Engineer;IoT+%7C+Computer+Vision+Developer;Building+AI+Systems+That+Solve+Real+Problems" />
+<!-- Animated typing header (works in GitHub READMEs) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=800&color=00F58C&center=true&vCenter=true&width=900&lines=Kamparapu+Eswar+Sai+Kiran;Edge+AI+%7C+Data+Analytics+%7C+Computer+Vision" alt="header" />
 
 <p>
-<a href="https://github.com/eswarsaikiran15">
-<img src="https://img.shields.io/github/followers/eswarsaikiran15?label=Followers&style=for-the-badge">
-</a>
-
-<a href="mailto:kamparapusaikiran@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge">
-
+<a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/github/followers/eswarsaikiran15?label=Followers&style=for-the-badge" alt="followers"></a>
+<a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" alt="email"></a>
+<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="linkedin"></a>
+<img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge" alt="views" />
 </p>
 
 </div>
 
 ---
 
-# 💻 Boot Sequence
+## Hi — I'm Eswar Sai Kiran 👋
+I build edge-to-cloud ML systems: data pipelines, production-ready models, and computer-vision solutions that run on devices like ESP32-CAM. I combine practical analytics with hands-on hardware integration.
 
-```bash
-> boot ai_profile
-
-Loading User...
-✔ Kamparapu Eswar Sai Kiran
-
-Loading Education...
-✔ B.Tech CSE (IoT)
-
-Loading Interests...
-✔ Data Analytics
-✔ Machine Learning
-✔ Computer Vision
-✔ Artificial Intelligence
-✔ IoT Systems
-
-Loading Status...
-✔ Open To Work
-
-System Ready.
-```
+- Current focus: Data Analytics, Computer Vision, Edge AI, and Deployable ML
+- Open to: Data Analyst / ML Engineer roles, collaboration, and open-source contributions
 
 ---
 
-# 🧠 About Me
-
-I enjoy building systems that can
-
-```
-Observe
-↓
-
-Understand
-↓
-
-Predict
-↓
-
-Act
-```
-
-Whether the input comes from a dataset or an ESP32 camera, my goal is always the same:
-
-> Transform raw data into meaningful decisions.
-
-Currently interested in
-
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 👁 Computer Vision
-- 🌐 AI + IoT
-- 📈 Predictive Analytics
+## Quick Links
+- 🔭 Latest project: [Smart Vision Writer](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project) — real-time image captioning with ESP32-CAM
+- 💼 LinkedIn: https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/
+- ✉️ Email: kamparapusaikiran@gmail.com
+- ⚡ GitHub: https://github.com/eswarsaikiran15
 
 ---
 
-# ⚡ Current Focus
-
-```text
-Learning
-█████████████████████ 100% SQL
-
-███████████████████░░ 90% Python
-
-██████████████████░░░ 85% Machine Learning
-
-████████████████░░░░░ 80% Power BI
-
-██████████████░░░░░░░ 70% Deep Learning
-```
+## Tech Stack — Visual Snapshot
+| Core | ML / CV | Data | Web / Deploy | Edge |
+|---|---|---:|---:|---:|
+| <img src="badges/python.svg" width="36"/> Python | <img src="badges/pytorch.svg" width="36"/> PyTorch | <img src="badges/pandas.svg" width="36"/> Pandas | <img src="badges/flask.svg" width="36"/> Flask | <img src="badges/esp32.svg" width="36"/> ESP32 |
+| <img src="https://skillicons.dev/icons?i=cpp" width="36"/> C++ | <img src="badges/opencv.svg" width="36"/> OpenCV | <img src="badges/sql.svg" width="36"/> MySQL / SQL | <img src="https://skillicons.dev/icons?i=streamlit" width="36"/> Streamlit | PIR / Sensors |
+| <img src="https://skillicons.dev/icons?i=html,css,js" width="36"/> Frontend | scikit-learn | NumPy | FastAPI (roadmap) | Edge AI concepts |
 
 ---
 
-# 🛠 Tech Stack
+## Skills — at a glance
 
-### Languages
+<img src="badges/python.svg" height="36" alt="python"/> <img src="badges/pytorch.svg" height="36" alt="pytorch"/> <img src="badges/opencv.svg" height="36" alt="opencv"/> <img src="badges/sql.svg" height="36" alt="sql"/> <img src="badges/esp32.svg" height="36" alt="esp32"/> <img src="badges/powerbi.svg" height="36" alt="powerbi"/>  
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
-
-</p>
-
-### Data
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
-
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
-
-</p>
-
-### AI
-
-<p>
-
-<img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn">
-
-<img src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=pytorch">
-
-<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit">
-
-</p>
-
-### Hardware
-
-```
-ESP32 CAM
-Arduino
-PIR Sensors
-WiFi Modules
-Edge AI
-```
+(If you want hover-card style descriptions, I can add animated SVG badges with embedded text as separate assets.)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
+- **Smart Vision Writer** — Real-time image captioning: ESP32-CAM → Flask → BLIP/CLIP → Streamlit dashboard.  
+  Repo: https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project
 
-## 🖼 Smart Vision Writer
+- **Startup Success Prediction** — End-to-end ML pipeline with feature engineering and ensemble models (Random Forest, Gradient Boosting). Precision & Recall ~94%.
 
-Real-time image captioning using
+- **Movie Revenue Prediction** — Regression pipeline with EDA, feature engineering, and model comparison.
 
-```
-ESP32 CAM
-↓
-
-Flask
-
-↓
-
-BLIP
-
-↓
-
-CLIP
-
-↓
-
-Live Caption
-```
-
-### Highlights
-
-- Real-time image captioning
-- ESP32-CAM integration
-- Flask backend
-- Streamlit dashboard
-- Computer Vision
-
-🔗 Repository
-
-https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project
+(See my repositories for full details, notebooks, and demos.)
 
 ---
 
-## 📈 Startup Success Prediction
-
-Machine Learning model predicting startup survival.
-
-Algorithms
-
-- Random Forest
-- Gradient Boosting
-- Feature Engineering
-
-Accuracy
-
-```
-Precision 94%
-
-Recall 94%
-```
-
----
-
-## 🎬 Movie Revenue Prediction
-
-End-to-end ML pipeline
-
-```
-EDA
-
-↓
-
-Feature Engineering
-
-↓
-
-Regression Models
-
-↓
-
-Prediction
-```
-
-Models
-
-- Linear Regression
-
-- Random Forest
-
-- Gradient Boosting
-
----
-
-## 📊 APSSDC Internship
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Visualization
-- Business Insights
-
----
-
-# 📈 GitHub Analytics
-
+## GitHub Stats
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="github-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=github_dark&hide_border=true" height="150" alt="top-langs" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=eswarsaikiran15&theme=github-dark&hide_border=true"/>
-
-</p>
+## Roadmap & Goals (2026)
+- Deploy production-ready CV models on edge devices
+- Add FastAPI + Docker deployment pipelines
+- Learn MLOps practices and AWS for model serving
+- Publish guides & open-source components
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarsaikiran15&theme=github-dark"/>
-
-</p>
+## Want a richer UI (full animations / hover cards)?
+GitHub READMEs cannot run custom CSS or JavaScript. To get the "full UI with hover effects and animations" you have two recommended options:
+1. Add animated SVG/GIF assets (I can generate these and commit them) — they render well in README and can simulate hover-like effects via animated frames.
+2. Create a small GitHub Pages site (index.html) where we can use full CSS/JS for the interactive UI; link it from your README.
 
 ---
 
-# 🎯 2026 Roadmap
+Thanks — tell me which of these you'd like and I'll proceed.
 
-```
-✔ Python
-
-✔ SQL
-
-✔ Machine Learning
-
-✔ Data Analytics
-
-✔ Power BI
-
-⬜ Deep Learning
-
-⬜ FastAPI
-
-⬜ Docker
-
-⬜ AWS
-
-⬜ MLOps
-```
-
----
-
-# 📌 Current Goals
-
-- Secure a Data Analyst role
-- Build production-ready ML projects
-- Learn MLOps
-- Contribute to Open Source
-- Publish technical articles
-
----
-
-# 📫 Connect
-
-📧 Email
-
-**kamparapusaikiran@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/
-
-💻 GitHub
-
-https://github.com/eswarsaikiran15
-
----
-
-<div align="center">
-
-## ⚡ Philosophy
-
-> **Observe → Analyze → Predict → Act**
-
-*"Code is valuable only when it solves a real problem."*
-
-⭐ Thanks for visiting my profile!
-
-</div>

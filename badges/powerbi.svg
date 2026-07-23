@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="PowerBI badge">
+  <defs>
+    <linearGradient id="g6" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#F2C811">
+        <animate attributeName="stop-color" values="#F2C811;#FFE95A;#F2C811" dur="2.2s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#C18F00">
+        <animate attributeName="stop-color" values="#C18F00;#FFD24C;#C18F00" dur="2.2s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g6)" />
+  <g transform="translate(14,30)">
+    <rect x="-6" y="-18" width="20" height="20" rx="4" fill="#E6B800" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#2b1b00">Power BI</text>
+  </g>
+</svg>

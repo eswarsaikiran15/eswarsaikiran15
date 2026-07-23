@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Python badge">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FFD43B">
+        <animate attributeName="stop-color" values="#FFD43B;#FFE873;#FFD43B" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#3675A9">
+        <animate attributeName="stop-color" values="#3675A9;#4aa0d9;#3675A9" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g1)" />
+  <g transform="translate(14,26)">
+    <circle cx="0" cy="-2" r="10" fill="#306998" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#08192b">Python</text>
+  </g>
+</svg>

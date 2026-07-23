@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="PyTorch badge">
+  <defs>
+    <linearGradient id="g2" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#FF6A00">
+        <animate attributeName="stop-color" values="#FF6A00;#FF8E3C;#FF6A00" dur="2.8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#B22222">
+        <animate attributeName="stop-color" values="#B22222;#FF4C4C;#B22222" dur="2.8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g2)" />
+  <g transform="translate(14,30)">
+    <rect x="-6" y="-18" width="20" height="20" rx="4" fill="#EE4C2C" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#1b0b0b">PyTorch</text>
+  </g>
+</svg>
