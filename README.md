@@ -1,162 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Eswar%20Sai%20Kiran&fontSize=56&fontColor=00F5FF&animation=fadeIn&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20IoT%20Builder&descSize=18&descAlignY=72&descColor=4ECDC4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0c29,50:1a1a2e,75:302b63,100:0f0c29&height=300&section=header&text=ESWAR%20SAI%20KIRAN&fontSize=54&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=%3C%20BUILDING%20AI%20%2B%20IOT%20SYSTEMS%20%2F%3E&descSize=18&descAlignY=58&descColor=FF2ED1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+AI+%2B+IoT+systems+%F0%9F%A4%96;ESP32-CAM+%E2%86%92+Transformers+%E2%86%92+Insights;Open+to+Data+Analyst+roles+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=750&lines=root%40eswar%3A~%24+whoami;%3E+Data+Analyst+%7C+ML+Engineer+%7C+IoT+Builder;%3E+Compiling+ideas+into+working+systems...;%3E+status%3A+ONLINE+%7C+mode%3A+SHIPPING" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eswarsaikiran15)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamparapusaikiran@gmail.com)
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=000000)
+![Build](https://img.shields.io/badge/BUILD-PASSING-00F5FF?style=for-the-badge&labelColor=000000)
+![Focus](https://img.shields.io/badge/FOCUS-SHIPPING_PROJECTS-FF2ED1?style=for-the-badge&labelColor=000000)
+![Availability](https://img.shields.io/badge/OPEN_TO-WORK-FFD700?style=for-the-badge&labelColor=000000)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eswarsaikiran15)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamparapusaikiran@gmail.com)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:302b63&height=3&section=header"/>
+
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> `> whoami`
+## `<terminal>`
 
-```yaml
-name: Eswar Sai Kiran
-role: Fresher Data Analyst · ML Enthusiast · IoT Builder
-education: B.Tech CSE (IoT) · 2026 · Aditya College of Engineering & Technology
-location: Kakinada, Andhra Pradesh, India
-focus: EDA · Predictive Modeling · IoT-AI Integration
-mission: "Building projects that translate data into decisions."
-status: 🟢 Open to analyst roles, freelance work & collaborations
+```bash
+$ cat about_me.log
+--------------------------------------------------------------
+ NAME        : Kamparapu Eswar Sai Kiran
+ ROLE        : Fresher Data Analyst · ML Enthusiast · IoT Builder
+ EDUCATION   : B.Tech CSE (IoT), 2026 — Aditya College of Engineering & Tech
+ LOCATION    : Kakinada, Andhra Pradesh, IN
+ CORE_LOOP   : sense --> collect --> model --> deploy --> repeat
+ MISSION     : "I don't just analyze data — I build the systems
+                that generate, capture, and act on it."
+ STATUS      : 🟢 open to Data Analyst roles, freelance & collabs
+--------------------------------------------------------------
+$ _
 ```
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Tech Stack
+## `<currently_building>`
+
+```yaml
+🔭 Working on   : Sharpening real-time inference pipelines (edge AI on ESP32)
+🌱 Learning     : Advanced time-series forecasting & MLOps deployment
+⚡ Fun fact     : My final-year project runs vision AI on hardware under ₹800
+🎯 2026 goal    : Ship a fully autonomous IoT + AI product end-to-end
+```
+
+<br/>
+
+## `<tech_stack>`
 
 <div align="center">
 
-**Core**
+<img src="https://skillicons.dev/icons?i=py,pandas,pytorch,sklearn,cpp,js,flask,arduino,git,github,jupyter&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C3E50?style=for-the-badge)
+<br/><br/>
 
-**Tools & Frameworks**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**IoT & Hardware**
-
-![ESP32](https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/PIR_Sensor-4B0082?style=for-the-badge)
-![Realtime](https://img.shields.io/badge/Realtime_Inference-1abc9c?style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00F5FF)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=FF2ED1)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=00F5FF)
+![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FF2ED1)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00F5FF)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly&logoColor=FF2ED1)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logoColor=00F5FF)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF2ED1)
+![HuggingFace](https://img.shields.io/badge/-Transformers-000000?style=flat-square&logo=huggingface&logoColor=FFD700)
+![Arduino](https://img.shields.io/badge/-Arduino--C++-000000?style=flat-square&logo=arduino&logoColor=00F5FF)
+![ESP32](https://img.shields.io/badge/-ESP32--CAM-000000?style=flat-square&logo=espressif&logoColor=FF2ED1)
 
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="28"/> Featured Projects
+## `<featured_builds>`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Smart Vision Writer
-`IoT + AI` · Final Year Project
+### 🛰️ Smart Vision Writer
+`IoT + AI` · Final Year Project — real-time image captioning on-device
 
-Real-time image captioning and scene understanding — an ESP32-CAM streaming to transformer vision-language models via Flask.
+An ESP32-CAM streams live frames to a Flask server running BLIP + CLIP, generating captions and scene understanding in near real-time — full pipeline, sub-₹800 hardware.
 
-| Metric | Result |
-|---|---|
-| Classification Accuracy | **90%** |
-| Caption Accuracy | **100%** |
-| Avg. Inference Time | **4.2s** |
-| Hardware Cost | **< ₹800** |
+```
+Classification Accuracy  ████████████████░░  90%
+Caption Accuracy         ████████████████████ 100%
+Avg. Inference Time      4.2s
+Hardware Cost            < ₹800
+```
 
-**Stack:** Python · PyTorch · BLIP · CLIP · Flask · Streamlit · Arduino C++ · ESP32-CAM
+`Python` `PyTorch` `BLIP` `CLIP` `Flask` `Streamlit` `ESP32-CAM`
 
-📂 [View Repository](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Startup Success Prediction
-`ML · Classification`
-
-Predicts startup success/failure from financial & operational data, with precision and recall both landing around 94%.
-
-**Highlights**
-- Gradient Boosting + Random Forest comparison
-- Feature engineering on real startup datasets
-- ~94% precision & recall
-
-**Stack:** Python · Pandas · Scikit-learn · Gradient Boosting · Random Forest
-
-📂 [View Repository](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Movie Revenue Prediction
-`ML · Regression`
-
-End-to-end ML pipeline — EDA → feature engineering → model comparison across Linear Regression, Random Forest, and Gradient Boosting.
-
-**Stack:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn
-
-📂 [View Repository](https://github.com/eswarsaikiran15/movie-recommendation)
+🔗 [View Repository →](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 APSSDC Data Analysis Internship
-`Data Analytics · EDA`
+### 📡 Startup Success Prediction
+`ML · Classification` — predicting outcomes before they happen
 
-Full data workflow on real-world datasets: cleaning, exploration, statistical analysis, and visual storytelling.
+Trained Gradient Boosting & Random Forest models on financial and operational startup data — precision and recall both landing at ~94%.
 
-**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
+```
+Precision   ██████████████████░░  94%
+Recall      ██████████████████░░  94%
+```
 
-📂 [View Repository](https://github.com/eswarsaikiran15/apssdc_data-analysis_internship)
+`Python` `Pandas` `Scikit-learn` `Gradient Boosting` `Random Forest`
+
+🔗 [View Repository →](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 CourseCatalyst
-`Full-Stack Web App`
+### 🎥 Movie Revenue Prediction
+`ML · Regression` — forecasting box office numbers
 
-Educational platform for curated programming courses, with particle animations and email integration.
+Full pipeline from raw data to deployed model: EDA → feature engineering → comparison across Linear Regression, Random Forest, and Gradient Boosting.
 
-**Stack:** HTML5 · CSS3 · JavaScript · EmailJS · tsParticles
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
-📂 [View Repository](https://github.com/eswarsaikiran15/course-catalyst)
+🔗 [View Repository →](https://github.com/eswarsaikiran15/movie-recommendation)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Next Build
-`Coming Soon`
+### 🧪 APSSDC Data Analysis Internship
+`Data Analytics · EDA` — real datasets, real answers
 
-Always shipping something new. Check back for the next data-driven experiment.
+Cleaned, explored, and modeled real-world data end-to-end — turning raw tables into statistical insight and visual storytelling.
 
-📌 Got an idea worth building together? [Let's talk](mailto:kamparapusaikiran@gmail.com)
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
+
+🔗 [View Repository →](https://github.com/eswarsaikiran15/apssdc_data-analysis_internship)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 CourseCatalyst
+`Full-Stack Web App` — a platform, not just a page
+
+An educational platform for curated programming courses, built with particle-based animation and integrated email workflows.
+
+`HTML5` `CSS3` `JavaScript` `EmailJS` `tsParticles`
+
+🔗 [View Repository →](https://github.com/eswarsaikiran15/course-catalyst)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚧 Next Build
+`In Progress`
+
+Always compiling the next idea. If you're building something in AI, data, or IoT — I want in.
+
+📩 [Let's build together →](mailto:kamparapusaikiran@gmail.com)
 
 </td>
 </tr>
@@ -164,7 +171,7 @@ Always shipping something new. Check back for the next data-driven experiment.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> Skills Matrix
+## `<skills_matrix>`
 
 | Domain | Skills |
 |---|---|
@@ -177,52 +184,97 @@ Always shipping something new. Check back for the next data-driven experiment.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:00F5FF&height=3&section=header"/>
+
+## `<live_metrics>`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4ECDC4&icon_color=00F5FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4ECDC4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00F5FF&icon_color=FF2ED1&text_color=39FF14" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=39FF14" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=00F5FF&fire=4ECDC4&currStreakLabel=4ECDC4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=dark&hide_border=true&background=000000&stroke=00F5FF&ring=FF2ED1&fire=39FF14&currStreakLabel=39FF14"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarsaikiran15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4ECDC4&line=00F5FF&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarsaikiran15&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=00F5FF&point=FF2ED1"/>
 
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=eswarsaikiran15&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10"/>
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eswarsaikiran15&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28"/> What I'm Looking For
-
-- 📊 **Data Analyst** roles — internships, entry-level, or freelance
-- 🤖 **ML / Data Science** projects to grow my portfolio
-- 🌍 **Real-world analytics** with measurable business impact
-- 🤝 **Collaborative opportunities** on data-driven solutions
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="28"/> Let's Connect
+## `<contribution_snake>`
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-> 💡 *Open to data analyst roles, freelance data projects, and learning collaborations. Let's build something data-driven together.*
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/eswarsaikiran15/eswarsaikiran15/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+<!--END_SECTION:snake-->
 
 </div>
 
+> ⚙️ **One-time setup:** this animated snake needs a GitHub Action to generate it. Add `.github/workflows/snake.yml` (below) to your profile repo — it auto-runs daily and eats your contribution graph.
+
+<details>
+<summary>📄 <code>snake.yml</code> — click to expand</summary>
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: eswarsaikiran15
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+## `<what_im_looking_for>`
+
+```diff
++ Data Analyst roles — internship, entry-level, or freelance
++ ML / Data Science projects to sharpen and grow my portfolio
++ Real-world analytics work with measurable business impact
++ Collaborators building AI, data, or IoT products
+```
+
+<br/>
+
+## `<connect>`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+> `> Let's compile something great together.`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:000000&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge&color=4ECDC4&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000"/>
 </p>
