@@ -1,280 +1,353 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f0c29,50:1a1a2e,75:302b63,100:0f0c29&height=300&section=header&text=ESWAR%20SAI%20KIRAN&fontSize=54&fontColor=00F5FF&animation=twinkling&fontAlignY=38&desc=%3C%20BUILDING%20AI%20%2B%20IOT%20SYSTEMS%20%2F%3E&descSize=18&descAlignY=58&descColor=FF2ED1"/>
+# 🤖 AI SYSTEM INITIALIZED
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&width=750&lines=root%40eswar%3A~%24+whoami;%3E+Data+Analyst+%7C+ML+Engineer+%7C+IoT+Builder;%3E+Compiling+ideas+into+working+systems...;%3E+status%3A+ONLINE+%7C+mode%3A+SHIPPING" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00F58C&center=true&vCenter=true&width=700&lines=Kamparapu+Eswar+Sai+Kiran;Data+Analyst;Machine+Learning+Engineer;IoT+%7C+Computer+Vision+Developer;Building+AI+Systems+That+Solve+Real+Problems" />
 
-<br/>
+<p>
+<a href="https://github.com/eswarsaikiran15">
+<img src="https://img.shields.io/github/followers/eswarsaikiran15?label=Followers&style=for-the-badge">
+</a>
 
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=000000)
-![Build](https://img.shields.io/badge/BUILD-PASSING-00F5FF?style=for-the-badge&labelColor=000000)
-![Focus](https://img.shields.io/badge/FOCUS-SHIPPING_PROJECTS-FF2ED1?style=for-the-badge&labelColor=000000)
-![Availability](https://img.shields.io/badge/OPEN_TO-WORK-FFD700?style=for-the-badge&labelColor=000000)
+<a href="mailto:kamparapusaikiran@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eswarsaikiran15)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamparapusaikiran@gmail.com)
+<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge">
+
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:302b63&height=3&section=header"/>
+---
 
-<br/>
-
-## `<terminal>`
+# 💻 Boot Sequence
 
 ```bash
-$ cat about_me.log
---------------------------------------------------------------
- NAME        : Kamparapu Eswar Sai Kiran
- ROLE        : Fresher Data Analyst · ML Enthusiast · IoT Builder
- EDUCATION   : B.Tech CSE (IoT), 2026 — Aditya College of Engineering & Tech
- LOCATION    : Kakinada, Andhra Pradesh, IN
- CORE_LOOP   : sense --> collect --> model --> deploy --> repeat
- MISSION     : "I don't just analyze data — I build the systems
-                that generate, capture, and act on it."
- STATUS      : 🟢 open to Data Analyst roles, freelance & collabs
---------------------------------------------------------------
-$ _
+> boot ai_profile
+
+Loading User...
+✔ Kamparapu Eswar Sai Kiran
+
+Loading Education...
+✔ B.Tech CSE (IoT)
+
+Loading Interests...
+✔ Data Analytics
+✔ Machine Learning
+✔ Computer Vision
+✔ Artificial Intelligence
+✔ IoT Systems
+
+Loading Status...
+✔ Open To Work
+
+System Ready.
 ```
 
-<br/>
+---
 
-## `<currently_building>`
+# 🧠 About Me
 
-```yaml
-🔭 Working on   : Sharpening real-time inference pipelines (edge AI on ESP32)
-🌱 Learning     : Advanced time-series forecasting & MLOps deployment
-⚡ Fun fact     : My final-year project runs vision AI on hardware under ₹800
-🎯 2026 goal    : Ship a fully autonomous IoT + AI product end-to-end
-```
-
-<br/>
-
-## `<tech_stack>`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,pandas,pytorch,sklearn,cpp,js,flask,arduino,git,github,jupyter&theme=dark" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00F5FF)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=FF2ED1)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=00F5FF)
-![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=FF2ED1)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=00F5FF)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=plotly&logoColor=FF2ED1)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logoColor=00F5FF)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=FF2ED1)
-![HuggingFace](https://img.shields.io/badge/-Transformers-000000?style=flat-square&logo=huggingface&logoColor=FFD700)
-![Arduino](https://img.shields.io/badge/-Arduino--C++-000000?style=flat-square&logo=arduino&logoColor=00F5FF)
-![ESP32](https://img.shields.io/badge/-ESP32--CAM-000000?style=flat-square&logo=espressif&logoColor=FF2ED1)
-
-</div>
-
-<br/>
-
-## `<featured_builds>`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Smart Vision Writer
-`IoT + AI` · Final Year Project — real-time image captioning on-device
-
-An ESP32-CAM streams live frames to a Flask server running BLIP + CLIP, generating captions and scene understanding in near real-time — full pipeline, sub-₹800 hardware.
+I enjoy building systems that can
 
 ```
-Classification Accuracy  ████████████████░░  90%
-Caption Accuracy         ████████████████████ 100%
-Avg. Inference Time      4.2s
-Hardware Cost            < ₹800
+Observe
+↓
+
+Understand
+↓
+
+Predict
+↓
+
+Act
 ```
 
-`Python` `PyTorch` `BLIP` `CLIP` `Flask` `Streamlit` `ESP32-CAM`
+Whether the input comes from a dataset or an ESP32 camera, my goal is always the same:
 
-🔗 [View Repository →](https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project)
+> Transform raw data into meaningful decisions.
 
-</td>
-<td width="50%" valign="top">
+Currently interested in
 
-### 📡 Startup Success Prediction
-`ML · Classification` — predicting outcomes before they happen
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 👁 Computer Vision
+- 🌐 AI + IoT
+- 📈 Predictive Analytics
 
-Trained Gradient Boosting & Random Forest models on financial and operational startup data — precision and recall both landing at ~94%.
+---
 
-```
-Precision   ██████████████████░░  94%
-Recall      ██████████████████░░  94%
-```
+# ⚡ Current Focus
 
-`Python` `Pandas` `Scikit-learn` `Gradient Boosting` `Random Forest`
+```text
+Learning
+█████████████████████ 100% SQL
 
-🔗 [View Repository →](https://github.com/eswarsaikiran15/Prosperity-Prognosticator-Machine-Learning-for-Startup-Success-Prediction)
+███████████████████░░ 90% Python
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+██████████████████░░░ 85% Machine Learning
 
-### 🎥 Movie Revenue Prediction
-`ML · Regression` — forecasting box office numbers
+████████████████░░░░░ 80% Power BI
 
-Full pipeline from raw data to deployed model: EDA → feature engineering → comparison across Linear Regression, Random Forest, and Gradient Boosting.
-
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
-
-🔗 [View Repository →](https://github.com/eswarsaikiran15/movie-recommendation)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 APSSDC Data Analysis Internship
-`Data Analytics · EDA` — real datasets, real answers
-
-Cleaned, explored, and modeled real-world data end-to-end — turning raw tables into statistical insight and visual storytelling.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
-
-🔗 [View Repository →](https://github.com/eswarsaikiran15/apssdc_data-analysis_internship)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 CourseCatalyst
-`Full-Stack Web App` — a platform, not just a page
-
-An educational platform for curated programming courses, built with particle-based animation and integrated email workflows.
-
-`HTML5` `CSS3` `JavaScript` `EmailJS` `tsParticles`
-
-🔗 [View Repository →](https://github.com/eswarsaikiran15/course-catalyst)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 Next Build
-`In Progress`
-
-Always compiling the next idea. If you're building something in AI, data, or IoT — I want in.
-
-📩 [Let's build together →](mailto:kamparapusaikiran@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `<skills_matrix>`
-
-| Domain | Skills |
-|---|---|
-| **Data Analysis** | EDA · Visualization · Preprocessing · Statistical Analysis |
-| **Machine Learning** | Supervised Learning · Classification · Regression · Feature Engineering · Model Evaluation |
-| **Programming** | Python · JavaScript · C++ |
-| **Libraries** | Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · PyTorch · Flask · Streamlit |
-| **Version Control** | Git · GitHub |
-| **IoT & Hardware** | ESP32-CAM · Arduino · PIR Sensor · Real-time Inference |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:00F5FF&height=3&section=header"/>
-
-## `<live_metrics>`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00F5FF&icon_color=FF2ED1&text_color=39FF14" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=39FF14" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eswarsaikiran15&theme=dark&hide_border=true&background=000000&stroke=00F5FF&ring=FF2ED1&fire=39FF14&currStreakLabel=39FF14"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarsaikiran15&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=00F5FF&point=FF2ED1"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=eswarsaikiran15&theme=matrix&no-frame=true&column=4&margin-w=10&margin-h=10"/>
-</div>
-
-<br/>
-
-## `<contribution_snake>`
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/eswarsaikiran15/eswarsaikiran15/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-<!--END_SECTION:snake-->
-
-</div>
-
-> ⚙️ **One-time setup:** this animated snake needs a GitHub Action to generate it. Add `.github/workflows/snake.yml` (below) to your profile repo — it auto-runs daily and eats your contribution graph.
-
-<details>
-<summary>📄 <code>snake.yml</code> — click to expand</summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: eswarsaikiran15
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+██████████████░░░░░░░ 70% Deep Learning
 ```
 
-</details>
+---
 
-<br/>
+# 🛠 Tech Stack
 
-## `<what_im_looking_for>`
+### Languages
 
-```diff
-+ Data Analyst roles — internship, entry-level, or freelance
-+ ML / Data Science projects to sharpen and grow my portfolio
-+ Real-world analytics work with measurable business impact
-+ Collaborators building AI, data, or IoT products
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+
+</p>
+
+### Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
+
+</p>
+
+### AI
+
+<p>
+
+<img src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikitlearn">
+
+<img src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=pytorch">
+
+<img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge">
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit">
+
+</p>
+
+### Hardware
+
+```
+ESP32 CAM
+Arduino
+PIR Sensors
+WiFi Modules
+Edge AI
 ```
 
-<br/>
+---
 
-## `<connect>`
+# 🚀 Featured Projects
 
-<div align="center">
+## 🖼 Smart Vision Writer
 
-<a href="https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/eswarsaikiran15"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:kamparapusaikiran@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Real-time image captioning using
 
-> `> Let's compile something great together.`
+```
+ESP32 CAM
+↓
 
-</div>
+Flask
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:000000&height=120&section=footer"/>
+↓
+
+BLIP
+
+↓
+
+CLIP
+
+↓
+
+Live Caption
+```
+
+### Highlights
+
+- Real-time image captioning
+- ESP32-CAM integration
+- Flask backend
+- Streamlit dashboard
+- Computer Vision
+
+🔗 Repository
+
+https://github.com/eswarsaikiran15/Smart_Vision_Writer_Academic_project
+
+---
+
+## 📈 Startup Success Prediction
+
+Machine Learning model predicting startup survival.
+
+Algorithms
+
+- Random Forest
+- Gradient Boosting
+- Feature Engineering
+
+Accuracy
+
+```
+Precision 94%
+
+Recall 94%
+```
+
+---
+
+## 🎬 Movie Revenue Prediction
+
+End-to-end ML pipeline
+
+```
+EDA
+
+↓
+
+Feature Engineering
+
+↓
+
+Regression Models
+
+↓
+
+Prediction
+```
+
+Models
+
+- Linear Regression
+
+- Random Forest
+
+- Gradient Boosting
+
+---
+
+## 📊 APSSDC Internship
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistical Analysis
+- Visualization
+- Business Insights
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eswarsaikiran15&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS&labelColor=000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eswarsaikiran15&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswarsaikiran15&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=eswarsaikiran15&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eswarsaikiran15&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🎯 2026 Roadmap
+
+```
+✔ Python
+
+✔ SQL
+
+✔ Machine Learning
+
+✔ Data Analytics
+
+✔ Power BI
+
+⬜ Deep Learning
+
+⬜ FastAPI
+
+⬜ Docker
+
+⬜ AWS
+
+⬜ MLOps
+```
+
+---
+
+# 📌 Current Goals
+
+- Secure a Data Analyst role
+- Build production-ready ML projects
+- Learn MLOps
+- Contribute to Open Source
+- Publish technical articles
+
+---
+
+# 📫 Connect
+
+📧 Email
+
+**kamparapusaikiran@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/eswar-sai-kiran-kamparapu-765703256/
+
+💻 GitHub
+
+https://github.com/eswarsaikiran15
+
+---
+
+<div align="center">
+
+## ⚡ Philosophy
+
+> **Observe → Analyze → Predict → Act**
+
+*"Code is valuable only when it solves a real problem."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
