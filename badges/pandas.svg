@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Pandas badge">
+  <defs>
+    <linearGradient id="g7" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#150458">
+        <animate attributeName="stop-color" values="#150458;#4b1b7a;#150458" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00A3E0">
+        <animate attributeName="stop-color" values="#00A3E0;#66d9ff;#00A3E0" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g7)" />
+  <g transform="translate(14,30)">
+    <rect x="-6" y="-18" width="20" height="20" rx="4" fill="#0e2b3a" opacity="0.12" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#f7f9fb">Pandas</text>
+  </g>
+</svg>

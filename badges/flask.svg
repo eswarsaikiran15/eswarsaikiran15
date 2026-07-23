@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Flask badge">
+  <defs>
+    <linearGradient id="g8" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#6ee7b7">
+        <animate attributeName="stop-color" values="#6ee7b7;#3ad9a5;#6ee7b7" dur="2.8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0ea5a1">
+        <animate attributeName="stop-color" values="#0ea5a1;#20cbb0;#0ea5a1" dur="2.8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect rx="10" width="220" height="48" fill="url(#g8)" />
+  <g transform="translate(14,30)">
+    <rect x="-6" y="-18" width="20" height="20" rx="4" fill="#032f2d" opacity="0.12" />
+    <text x="34" y="6" font-family="Verdana" font-size="14" fill="#02211f">Flask</text>
+  </g>
+</svg>
